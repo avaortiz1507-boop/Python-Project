@@ -1,0 +1,1 @@
+In this project, I created a greeter and calculator. In the python greeter.py, you are prompted to type your name. In the python calculator.py, you are prompted to add, subtract, multiply or divid 2 numbers.
