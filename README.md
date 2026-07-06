@@ -1,1 +1,1 @@
-In this project, I created a greeter and calculator. In the python greeter.py, you are prompted to type your name. In the python calculator.py, you are prompted to add, subtract, multiply or divid 2 numbers.
+In this project, I created a greeter, calculator and a menu option. In the python greeter.py, you are prompted to type your name. In the python calculator.py, you are prompted to add, subtract, multiply or divid 2 numbers. In the menu.py, you are prompted to choose 4 options: particpate in survey, compare 2 numbers, answer a question or exit the survey.
