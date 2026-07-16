@@ -22,3 +22,6 @@ In the counting_vowels.py, the user is prompted to enter a word that has vowels.
 
 ## Guess the Number
 In the number_guessing_game.py, the user is asked to guess the number Python is "thinking".
+
+## Text Processing
+In the word_counting.py, the user is asked what their favorite season is and why. Then, the number of words and the average length of all the words are calculated and displayed. 
